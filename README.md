@@ -1,1 +1,1 @@
-punjabi language model
+LANGUAGE MODEL OF PUNJABI LANGUAGE
