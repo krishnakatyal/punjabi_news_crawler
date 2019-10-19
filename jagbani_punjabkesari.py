@@ -17,7 +17,7 @@ log.setLevel(logging.INFO)
 
 MAX_COUNT = 1000000000000
 
-ROOT_DIR = 'viduthalai'
+ROOT_DIR = 'punjabkesari'
 
 LINKS_FILEPATH         = '{}/links.list'.format(ROOT_DIR)
 VISITED_LINKS_FILEPATH = '{}/visited-links.list'.format(ROOT_DIR)
@@ -29,7 +29,7 @@ COMMENTS_DIR           = '{}/comments'          .format(ROOT_DIR)
 
 HTTP = 'http://'
 HTTPS = 'https://'
-ROOT_URL = 'viduthalai.in'
+ROOT_URL = 'jagbani.punjabkesari.in'
          
 
 CRAWLED_PAGE_COUNT = 0
