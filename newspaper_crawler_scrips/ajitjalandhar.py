@@ -147,6 +147,6 @@ class MahaTimesCrawler(MultiThreadedCrawler2):
 
 if __name__ == '__main__':
     # Keeping one thread for debugging
-    crawler = MahaTimesCrawler('https://jagbani.punjabkesari.in', num_threads=1)
+    crawler = MahaTimesCrawler('http://beta.ajitjalandhar.com', num_threads=1)
     crawler.initialize_dir_structure()
     crawler.crawl()
