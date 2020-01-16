@@ -1,1 +1,1 @@
-punjabi news crawler for trainig NLP model
+punjabi news crawler for trainig NLP model.
